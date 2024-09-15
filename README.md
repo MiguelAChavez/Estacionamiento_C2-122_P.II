@@ -1,8 +1,10 @@
 # Sistema de estacionamento
 
-![sistema de estacionamento](https://github.com/tonytonyjan/tonytonyjan.github.io/raw/main/sistema-de-estacionamento.png)
+<div align="center">    
+  <img src="https://res.cloudinary.com/ddxmx9rf3/image/upload/v1726406543/Images/tiowjygbrjq0r8k4g5cq.png" alt="sistema de estacionamento">
+</div>
 
-## concigna 
+## Consigna 
 <div>
     <p> 
         En este ejercicio, implementaremos la lógica para gestionar un estacionamiento de autos. Se proporcionará la clase Auto, que incluye atributos como Motor y otras partes importantes del vehículo. Tu tarea será crear la lógica para administrar el flujo de autos dentro y fuera del estacionamiento, asegurando que se respeten las reglas de capacidad máxima y gestionando adecuadamente los espacios disponibles.
